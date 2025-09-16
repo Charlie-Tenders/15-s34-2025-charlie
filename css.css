@@ -1,5 +1,23 @@
-* {
+h1 {
+  color: rgb(154, 78, 51);
+}
+
+body {
   font-family: serif;
   background-color: bisque;
-  color: coral;
+  color: darksalmon;
+  display: grid;
+  place-items: center;
+}
+
+#funbtn {
+  font-family: "Courier New", Courier, monospace;
+  background-color: darkslategray;
+  color: aliceblue;
+  padding: 15x 30px;
+  border-radius: 10px;
+}
+
+#fundiv {
+  padding: 15px;
 }
